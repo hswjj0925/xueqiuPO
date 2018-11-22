@@ -1,0 +1,157 @@
+{
+  "uid" : "7de1183e196078d7",
+  "name" : "test_login.TestLogin.test_0001",
+  "fullName" : "src.case.userlogin.test_login.TestLogin.test_0001",
+  "historyId" : "2bd33d0edab304c6c46f522e08025f5d",
+  "time" : {
+    "start" : 1542773587513,
+    "stop" : 1542773601221,
+    "duration" : 13708
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击小动物Icon,切换到登陆页面",
+      "time" : {
+        "start" : 1542773587517,
+        "stop" : 1542773591707,
+        "duration" : 4190
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "点击登陆雪球",
+      "time" : {
+        "start" : 1542773591707,
+        "stop" : 1542773593421,
+        "duration" : 1714
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "点击手机及其他登录",
+      "time" : {
+        "start" : 1542773593421,
+        "stop" : 1542773595157,
+        "duration" : 1736
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "点击手机号密码登录",
+      "time" : {
+        "start" : 1542773595157,
+        "stop" : 1542773596804,
+        "duration" : 1647
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "登陆雪球",
+      "time" : {
+        "start" : 1542773596804,
+        "stop" : 1542773601221,
+        "duration" : 4417
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "daf93496f31f8867",
+      "name" : "Captured log call",
+      "source" : "daf93496f31f8867.txt",
+      "type" : "text/plain",
+      "size" : 1364
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试登陆功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "测试登陆功能"
+  }, {
+    "name" : "thread",
+    "value" : "62349-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "src.case.userlogin"
+  }, {
+    "name" : "testClass",
+    "value" : "src.case.userlogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_login.TestLogin.test_0001"
+  }, {
+    "name" : "package",
+    "value" : "src.case.userlogin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7de1183e196078d7.json",
+  "parameterValues" : [ ]
+}

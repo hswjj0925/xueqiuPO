@@ -1,0 +1,117 @@
+2018-11-21 11:06:35,723 root INFO header:9 init the header page
+2018-11-21 11:08:08,067 root INFO header:9 init the header page
+2018-11-21 11:08:08,068 root INFO header:25 
+2018-11-21 11:08:08,068 root INFO header:21 
+2018-11-21 11:08:13,002 root INFO mine:10 init mine page
+2018-11-21 11:09:31,251 root INFO header:9 init the header page
+2018-11-21 11:09:31,251 root INFO header:25 
+2018-11-21 11:09:31,251 root INFO header:21 
+2018-11-21 11:09:35,600 root INFO mine:10 init mine page
+2018-11-21 11:09:35,600 root INFO mine:18 点击登陆雪球按钮
+2018-11-21 11:09:35,601 root INFO mine:14 查找登陆雪球按钮
+2018-11-21 11:09:44,474 root INFO mine:26 点击登陆手机及其他按钮
+2018-11-21 11:09:44,474 root INFO mine:22 查找手机及其他按钮
+2018-11-21 11:09:54,772 root WARNING base:38 Can not find element,will retry at1time
+2018-11-21 11:10:01,777 root INFO mine:34 点击邮箱手机号密码按钮
+2018-11-21 11:11:00,949 root INFO header:9 init the header page
+2018-11-21 11:11:00,950 root INFO header:25 
+2018-11-21 11:11:00,950 root INFO header:21 
+2018-11-21 11:11:10,969 root WARNING base:38 Can not find element,will retry at1time
+2018-11-21 11:11:23,344 root WARNING base:38 Can not find element,will retry at2time
+2018-11-21 11:11:36,421 root WARNING base:38 Can not find element,will retry at3time
+2018-11-21 11:14:05,597 root INFO header:9 init the header page
+2018-11-21 11:14:05,602 root INFO header:25 点击信封icon
+2018-11-21 11:14:05,608 root INFO header:21 寻找信封icon
+2018-11-21 11:15:30,151 root INFO header:9 init the header page
+2018-11-21 11:15:30,151 root INFO header:17 点击小牛icon
+2018-11-21 11:15:30,151 root INFO header:13 寻找小牛icon
+2018-11-21 11:15:34,021 root INFO mine:10 init mine page
+2018-11-21 11:15:34,021 root INFO mine:18 点击登陆雪球按钮
+2018-11-21 11:15:34,021 root INFO mine:14 查找登陆雪球按钮
+2018-11-21 11:15:44,097 root WARNING base:38 Can not find element,will retry at1time
+2018-11-21 11:15:56,109 root WARNING base:38 Can not find element,will retry at2time
+2018-11-21 11:16:09,278 root WARNING base:38 Can not find element,will retry at3time
+2018-11-21 11:25:29,808 root INFO header:9 init the header page
+2018-11-21 11:25:29,809 root INFO header:17 点击小牛icon
+2018-11-21 11:25:29,809 root INFO header:13 寻找小牛icon
+2018-11-21 11:25:36,987 root INFO mine:10 init mine page
+2018-11-21 11:25:36,987 root INFO mine:18 点击登陆雪球按钮
+2018-11-21 11:25:36,987 root INFO mine:14 查找登陆雪球按钮
+2018-11-21 11:25:38,279 root INFO mine:26 点击登陆手机及其他按钮
+2018-11-21 11:25:38,279 root INFO mine:22 查找手机及其他按钮
+2018-11-21 11:25:40,112 root INFO mine:34 点击邮箱手机号密码按钮
+2018-11-21 11:25:40,112 root INFO mine:30 查找邮箱手机号密码按钮
+2018-11-21 11:25:41,825 root INFO login:10 init loggin page
+2018-11-21 11:25:41,826 root INFO login:14 查找输入手机号框
+2018-11-21 11:25:42,463 root INFO login:18 点击输入手机号框,输入值
+2018-11-21 11:25:42,463 root INFO login:14 查找输入手机号框
+2018-11-21 11:25:43,009 root INFO base:58 setting value to 18610648684
+2018-11-21 11:25:44,046 root INFO login:22 查找输入密码框
+2018-11-21 11:25:44,560 root INFO login:26 点击输入密码框,输入值
+2018-11-21 11:25:44,560 root INFO login:22 查找输入密码框
+2018-11-21 11:25:45,107 root INFO base:58 setting value to ...wjj900925
+2018-11-21 11:25:45,636 root INFO login:34 点击登陆按钮
+2018-11-21 11:25:45,637 root INFO login:30 查找登陆按钮
+2018-11-21 12:09:27,390 root INFO header:9 init the header page
+2018-11-21 12:09:27,390 root INFO header:17 点击小牛icon
+2018-11-21 12:09:27,390 root INFO header:13 寻找小牛icon
+2018-11-21 12:09:31,118 root INFO mine:10 init mine page
+2018-11-21 12:09:31,118 root INFO mine:18 点击登陆雪球按钮
+2018-11-21 12:09:31,118 root INFO mine:14 查找登陆雪球按钮
+2018-11-21 12:09:32,477 root INFO mine:26 点击登陆手机及其他按钮
+2018-11-21 12:09:32,477 root INFO mine:22 查找手机及其他按钮
+2018-11-21 12:09:34,291 root INFO mine:34 点击邮箱手机号密码按钮
+2018-11-21 12:09:34,292 root INFO mine:30 查找邮箱手机号密码按钮
+2018-11-21 12:09:36,320 root INFO login:10 init loggin page
+2018-11-21 12:09:36,320 root INFO login:14 查找输入手机号框
+2018-11-21 12:09:36,944 root INFO login:18 点击输入手机号框,输入值
+2018-11-21 12:09:36,944 root INFO login:14 查找输入手机号框
+2018-11-21 12:09:37,498 root INFO base:58 setting value to 18610648684
+2018-11-21 12:09:38,547 root INFO login:22 查找输入密码框
+2018-11-21 12:09:39,063 root INFO login:26 点击输入密码框,输入值
+2018-11-21 12:09:39,064 root INFO login:22 查找输入密码框
+2018-11-21 12:09:39,626 root INFO base:58 setting value to ...wjj900925
+2018-11-21 12:09:40,156 root INFO login:34 点击登陆按钮
+2018-11-21 12:09:40,156 root INFO login:30 查找登陆按钮
+2018-11-21 12:11:50,715 root INFO header:9 init the header page
+2018-11-21 12:11:50,715 root INFO header:17 点击小牛icon
+2018-11-21 12:11:50,716 root INFO header:13 寻找小牛icon
+2018-11-21 12:11:55,142 root INFO mine:10 init mine page
+2018-11-21 12:11:55,143 root INFO mine:18 点击登陆雪球按钮
+2018-11-21 12:11:55,143 root INFO mine:14 查找登陆雪球按钮
+2018-11-21 12:11:57,051 root INFO mine:26 点击登陆手机及其他按钮
+2018-11-21 12:11:57,051 root INFO mine:22 查找手机及其他按钮
+2018-11-21 12:11:58,265 root INFO mine:34 点击邮箱手机号密码按钮
+2018-11-21 12:11:58,265 root INFO mine:30 查找邮箱手机号密码按钮
+2018-11-21 12:12:00,027 root INFO login:10 init loggin page
+2018-11-21 12:12:00,028 root INFO login:14 查找输入手机号框
+2018-11-21 12:12:00,654 root INFO login:18 点击输入手机号框,输入值
+2018-11-21 12:12:00,654 root INFO login:14 查找输入手机号框
+2018-11-21 12:12:01,213 root INFO base:58 setting value to 18610648684
+2018-11-21 12:12:02,262 root INFO login:22 查找输入密码框
+2018-11-21 12:12:02,772 root INFO login:26 点击输入密码框,输入值
+2018-11-21 12:12:02,773 root INFO login:22 查找输入密码框
+2018-11-21 12:12:03,325 root INFO base:58 setting value to ...wjj900925
+2018-11-21 12:12:03,839 root INFO login:34 点击登陆按钮
+2018-11-21 12:12:03,839 root INFO login:30 查找登陆按钮
+2018-11-21 12:13:07,517 root INFO header:9 init the header page
+2018-11-21 12:13:07,517 root INFO header:17 点击小牛icon
+2018-11-21 12:13:07,517 root INFO header:13 寻找小牛icon
+2018-11-21 12:13:11,707 root INFO mine:10 init mine page
+2018-11-21 12:13:11,707 root INFO mine:18 点击登陆雪球按钮
+2018-11-21 12:13:11,707 root INFO mine:14 查找登陆雪球按钮
+2018-11-21 12:13:13,421 root INFO mine:26 点击登陆手机及其他按钮
+2018-11-21 12:13:13,421 root INFO mine:22 查找手机及其他按钮
+2018-11-21 12:13:15,157 root INFO mine:34 点击邮箱手机号密码按钮
+2018-11-21 12:13:15,157 root INFO mine:30 查找邮箱手机号密码按钮
+2018-11-21 12:13:16,803 root INFO login:10 init loggin page
+2018-11-21 12:13:16,804 root INFO login:14 查找输入手机号框
+2018-11-21 12:13:17,429 root INFO login:18 点击输入手机号框,输入值
+2018-11-21 12:13:17,429 root INFO login:14 查找输入手机号框
+2018-11-21 12:13:17,981 root INFO base:58 setting value to 18610648684
+2018-11-21 12:13:19,018 root INFO login:22 查找输入密码框
+2018-11-21 12:13:19,622 root INFO login:26 点击输入密码框,输入值
+2018-11-21 12:13:19,622 root INFO login:22 查找输入密码框
+2018-11-21 12:13:20,160 root INFO base:58 setting value to ...wjj900925
+2018-11-21 12:13:20,690 root INFO login:34 点击登陆按钮
+2018-11-21 12:13:20,690 root INFO login:30 查找登陆按钮

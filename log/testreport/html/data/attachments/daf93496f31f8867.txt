@@ -1,0 +1,21 @@
+header.py                    9 INFO     init the header page
+header.py                   17 INFO     点击小牛icon
+header.py                   13 INFO     寻找小牛icon
+mine.py                     10 INFO     init mine page
+mine.py                     18 INFO     点击登陆雪球按钮
+mine.py                     14 INFO     查找登陆雪球按钮
+mine.py                     26 INFO     点击登陆手机及其他按钮
+mine.py                     22 INFO     查找手机及其他按钮
+mine.py                     34 INFO     点击邮箱手机号密码按钮
+mine.py                     30 INFO     查找邮箱手机号密码按钮
+login.py                    10 INFO     init loggin page
+login.py                    14 INFO     查找输入手机号框
+login.py                    18 INFO     点击输入手机号框,输入值
+login.py                    14 INFO     查找输入手机号框
+base.py                     58 INFO     setting value to 18610648684
+login.py                    22 INFO     查找输入密码框
+login.py                    26 INFO     点击输入密码框,输入值
+login.py                    22 INFO     查找输入密码框
+base.py                     58 INFO     setting value to ...wjj900925
+login.py                    34 INFO     点击登陆按钮
+login.py                    30 INFO     查找登陆按钮

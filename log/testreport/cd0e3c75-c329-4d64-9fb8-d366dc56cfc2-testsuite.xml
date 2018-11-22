@@ -1,0 +1,53 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1542773587513" stop="1542773601221">
+  <name>src.case.userlogin</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1542773587513" status="passed" stop="1542773601221">
+      <name>test_login.TestLogin.test_0001</name>
+      <attachments>
+        <attachment source="b18cc332-f5c9-4a15-b3d1-50814ba3f19b-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="feature" value="测试登陆功能"/>
+        <label name="story" value="测试登陆功能"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="62349-MainThread"/>
+        <label name="host" value="localhost"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1542773587517" status="passed" stop="1542773591707">
+          <name>点击小动物Icon,切换到登陆页面</name>
+          <title>点击小动物Icon,切换到登陆页面</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542773591707" status="passed" stop="1542773593421">
+          <name>点击登陆雪球</name>
+          <title>点击登陆雪球</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542773593421" status="passed" stop="1542773595157">
+          <name>点击手机及其他登录</name>
+          <title>点击手机及其他登录</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542773595157" status="passed" stop="1542773596804">
+          <name>点击手机号密码登录</name>
+          <title>点击手机号密码登录</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542773596804" status="passed" stop="1542773601221">
+          <name>登陆雪球</name>
+          <title>登陆雪球</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
